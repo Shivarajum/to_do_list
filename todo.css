@@ -1,0 +1,50 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color:aquamarine ;
+   
+}
+ 
+.task
+{
+   
+    
+    display: flex;
+   justify-content: center;
+   margin-top: 20px;
+}
+
+
+.task_input
+{
+    height: 30px;
+    width: 350px;
+    padding: 30px;
+}
+.add_task_button
+{
+    margin-left: 20px;
+    height: 30px;
+    width: 150px;
+    padding: 30px;
+    text-align: center;
+}
+.ul_tasklist
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+.h1
+{
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+    font-family: cursive;
+    
+}
